@@ -15,7 +15,8 @@ window.addEventListener('DOMContentLoaded', (event) => {
     'shirts',
     'raincoat or umbrella',
     'socks',
-    'charger/earphone/extension cable'
+    'charger/earphone/extension cable',
+    'cup'
   ];
 
   const shoppingListElement = document.getElementById('shopping-list');
